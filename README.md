@@ -1,1 +1,0 @@
-# modulefederation_demo
