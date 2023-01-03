@@ -5,8 +5,8 @@ import 'bootstrap/dist/js/bootstrap.bundle.min';
 function App() {
   return (
     <div className="App">
-      <h1>Remote 2</h1>
-      <Button text="Component Library Btn 2" classname="btn btn-primary"/>
+      <h3>This is the Remote 2</h3>
+      <Button text="Component Library Btn 2" classname="btn btn-danger"/>
     </div>
   );
 }
