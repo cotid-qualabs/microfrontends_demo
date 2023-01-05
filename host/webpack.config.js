@@ -43,8 +43,8 @@ module.exports = {
     new ModuleFederationPlugin({
       name: "Host",
       remotes: {
-        RemoteOne: `RemoteOne@http://localhost:3001/moduleEntry.js`,
-        RemoteTwo: `RemoteTwo@http://localhost:3002/moduleEntry.js`,
+        RemoteOne: `RemoteOne@http://qnd-microfe-test.s3-website-us-east-1.amazonaws.com/remote1/moduleEntry.js`,
+        RemoteTwo: `RemoteTwo@http://qnd-microfe-test.s3-website-us-east-1.amazonaws.com/remote2/moduleEntry.js`,
       },
       shared: {
         ...dependencies,
