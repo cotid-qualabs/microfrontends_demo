@@ -1,7 +1,7 @@
 # Micro FrontEnds Demo
 This is a simple demo project, created to understand how to connect different applications with Module Federation using a Micro FrontEnd architecture. 
 
-Remotes applications where hosted on aws, but they can be ran locally the same way as the host application.
+Remotes applications were hosted on aws, but they can be ran locally the same way as the host application.
 
 ### Run Project
 
