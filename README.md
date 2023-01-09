@@ -3,6 +3,8 @@ This is a simple demo project, created to understand how to connect different ap
 
 Remotes applications were hosted on aws, but they can be ran locally the same way as the host application.
 
+This project also uses a custom Generic Compoment Library created with npm.
+
 ### Run Project
 
 ```
@@ -18,6 +20,7 @@ html-webpack-plugin 5.5.0
 webpack-cli 5.0.1
 bootstrap 5.2.3
 react-router-dom 6.6.1
+qnd_component_library_demo 0.1.4
 ```
 
 ### Resources
